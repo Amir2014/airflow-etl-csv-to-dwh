@@ -62,7 +62,7 @@ This project is simple, and you can change parts of it depending on your data:
 
 ## Author
 **Amir Emami**  
-Data & BI Engineer  
+Data & AI & BI Engineer  
 [LinkedIn profile](https://www.linkedin.com/in/amir-emami-98834636/)
 
 ---
